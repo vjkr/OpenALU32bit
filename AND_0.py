@@ -1,1 +1,0 @@
-print("GoldenEgg: Waiting for your PR")
