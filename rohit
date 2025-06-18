@@ -1,0 +1,5 @@
+def adderdef(a, b):Add commentMore actions
+  print("-------------------------------")
+  print("by rohit is")
+  print("a * b equals", a * b)
+  return
